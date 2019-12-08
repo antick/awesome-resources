@@ -6,5 +6,6 @@
 
 - [Joe Schmoe Avatar Collection](https://joeschmoe.io)
 - [Lorem Picsum](https://picsum.photos)
-- [unDraw](https://undraw.co/)
+- [unDraw](https://undraw.co)
 - [Illustrations](https://illlustrations.co)
+- [AI Generated Faces](https://generated.photos)
