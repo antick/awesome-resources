@@ -9,3 +9,4 @@
 - [unDraw](https://undraw.co)
 - [Illustrations](https://illlustrations.co)
 - [AI Generated Faces](https://generated.photos)
+- [Pizza Placeholder Images](https://img.pizza)
