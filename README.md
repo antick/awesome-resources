@@ -45,3 +45,6 @@
 
 ### Name Ideas
 - [Domain and Product Names](https://namewink.com)
+
+### Dummy APIs
+- [Ajax Requests With a Delay](https://slowmo.glitch.me)
