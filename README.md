@@ -48,3 +48,4 @@
 
 ### Dummy APIs
 - [Ajax Requests With a Delay](https://slowmo.glitch.me)
+- [Random Quotes](https://api.quotable.io/random)
