@@ -5,6 +5,7 @@
 ### Images
 
 - [Joe Schmoe Avatar Collection](https://joeschmoe.io)
+- [Robohash](https://robohash.org)
 - [Lorem Picsum](https://picsum.photos)
 - [AI Generated Faces](https://generated.photos)
 - [Pizza Placeholder Images](https://img.pizza)
@@ -49,3 +50,4 @@
 ### Dummy APIs
 - [Ajax Requests With a Delay](https://slowmo.glitch.me)
 - [Random Quotes](https://api.quotable.io/random)
+- [JSON Placeholder for fake REST APIs](https://jsonplaceholder.typicode.com)
