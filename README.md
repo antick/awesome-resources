@@ -44,6 +44,10 @@
 - [Draw Kit](https://www.drawkit.io/free)
 - [Isometric](https://isometric.online)
 
+### SVG
+
+- [SVGOMG - Clean SVG File](https://jakearchibald.github.io/svgomg)
+
 ### Name Ideas
 - [Domain and Product Names](https://namewink.com)
 
