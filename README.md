@@ -34,6 +34,7 @@
 - [Material Design Icons](https://materialdesignicons.com)
 - [freeicons](https://freeicons.io)
 - [friconix](https://friconix.com)
+- [Zond Icons](http://www.zondicons.com)
 
 ### Vector Illustrations
 - [Ouch](https://icons8.com/ouch)
