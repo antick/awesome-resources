@@ -56,3 +56,7 @@
 - [Ajax Requests With a Delay](https://slowmo.glitch.me)
 - [Random Quotes](https://api.quotable.io/random)
 - [JSON Placeholder for fake REST APIs](https://jsonplaceholder.typicode.com)
+
+### Fonts
+
+- [Operator Mono](https://www.cufonfonts.com/font/operator-mono)
