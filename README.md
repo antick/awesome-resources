@@ -58,6 +58,10 @@
 - [JSON Placeholder for fake REST APIs](https://jsonplaceholder.typicode.com)
 - [Pokemon API](https://pokeapi.co)
 
+### Real APIs
+- [NASA](https://api.nasa.gov/index.html)
+- [Weather API](https://www.weatherbit.io/api)
+
 ### Fonts
 
 - [Operator Mono](https://www.cufonfonts.com/font/operator-mono)
