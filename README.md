@@ -1,4 +1,5 @@
 # List of Resources
+
 🧷 An awesome list of useful resources
 
 
@@ -15,6 +16,7 @@
 - [Pixabay](https://pixabay.com)
 
 ### Icons
+
 - [The Noun Project](https://thenounproject.com)
 - [icomonstr](https://iconmonstr.com)
 - [Good Stuff No Nonsense](https://goodstuffnononsense.com)
@@ -37,6 +39,7 @@
 - [Zond Icons](http://www.zondicons.com)
 
 ### Vector Illustrations
+
 - [Ouch](https://icons8.com/ouch)
 - [unDraw](https://undraw.co)
 - [Illustrations](https://illlustrations.co)
@@ -50,18 +53,25 @@
 - [SVGOMG - Clean SVG File](https://jakearchibald.github.io/svgomg)
 
 ### Name Ideas
+
 - [Domain and Product Names](https://namewink.com)
 
 ### Dummy APIs
+
 - [Ajax Requests With a Delay](https://slowmo.glitch.me)
 - [Random Quotes](https://api.quotable.io/random)
 - [JSON Placeholder for fake REST APIs](https://jsonplaceholder.typicode.com)
 - [Pokemon API](https://pokeapi.co)
 
 ### Real APIs
+
 - [NASA](https://api.nasa.gov/index.html)
 - [Weather API](https://www.weatherbit.io/api)
 
 ### Fonts
 
 - [Operator Mono](https://www.cufonfonts.com/font/operator-mono)
+
+### Avatars
+
+- [Avataar Generator](https://getavataaars.com)
