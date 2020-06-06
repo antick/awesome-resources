@@ -37,6 +37,7 @@
 - [freeicons](https://freeicons.io)
 - [friconix](https://friconix.com)
 - [Zond Icons](http://www.zondicons.com)
+- [Free Line Icons](https://lineicons.com/icons)
 
 ### Vector Illustrations
 
