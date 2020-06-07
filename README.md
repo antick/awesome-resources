@@ -73,6 +73,7 @@
 ### Fonts
 
 - [Operator Mono](https://www.cufonfonts.com/font/operator-mono)
+- [Befonts](https://befonts.com)
 
 ### Avatars
 
