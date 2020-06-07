@@ -86,3 +86,7 @@
 ### Avatars
 
 - [Avataar Generator](https://getavataaars.com)
+
+### Logo
+
+- [Hatchful Logos by Shopify](https://hatchful.shopify.com)
