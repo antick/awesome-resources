@@ -14,6 +14,7 @@
 - [Generative Placeholders](https://generative-placeholders.glitch.me)
 - [Free Pik](https://www.freepik.com)
 - [Pixabay](https://pixabay.com)
+- [Pexels](https://www.pexels.com)
 
 ### Icons
 
