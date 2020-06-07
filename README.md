@@ -49,6 +49,7 @@
 - [Free SVG Illustrations](https://lukaszadam.com/illustrations)
 - [Draw Kit](https://www.drawkit.io/free)
 - [Isometric](https://isometric.online)
+- [Blush Illustration](https://blush.design)
 
 ### SVG
 
