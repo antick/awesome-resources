@@ -16,6 +16,9 @@
 - [Pixabay](https://pixabay.com)
 - [Pexels](https://www.pexels.com)
 
+### Videos
+- [Free Stock Video Footage](https://www.videvo.net)
+
 ### Icons
 
 - [The Noun Project](https://thenounproject.com)
