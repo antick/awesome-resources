@@ -43,6 +43,7 @@
 - [friconix](https://friconix.com)
 - [Zond Icons](http://www.zondicons.com)
 - [Free Line Icons](https://lineicons.com/icons)
+- [Tilda Icons](https://tilda.cc/free-icons)
 
 ### Vector Illustrations
 
