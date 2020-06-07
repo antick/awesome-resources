@@ -44,6 +44,7 @@
 - [Zond Icons](http://www.zondicons.com)
 - [Free Line Icons](https://lineicons.com/icons)
 - [Tilda Icons](https://tilda.cc/free-icons)
+- [Icon Store](https://iconstore.co)
 
 ### Vector Illustrations
 
