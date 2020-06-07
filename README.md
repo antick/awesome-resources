@@ -45,6 +45,7 @@
 - [Free Line Icons](https://lineicons.com/icons)
 - [Tilda Icons](https://tilda.cc/free-icons)
 - [Icon Store](https://iconstore.co)
+- [Favicon](https://favicon.io)
 
 ### Vector Illustrations
 
@@ -56,6 +57,9 @@
 - [Draw Kit](https://www.drawkit.io/free)
 - [Isometric](https://isometric.online)
 - [Blush Illustration](https://blush.design)
+- [Scribbbles](https://www.scribbbles.design)
+- [Smash Illustrations](https://usesmash.com)
+- [Open Doodles](https://opendoodles.com)
 
 ### SVG
 
@@ -72,6 +76,8 @@
 - [JSON Placeholder for fake REST APIs](https://jsonplaceholder.typicode.com)
 - [Pokemon API](https://pokeapi.co)
 - [Chuck Norris Jokes](https://api.chucknorris.io)
+- [Star Wars API](https://swapi.dev)
+- [Star Wars API - Backup](http://swapi.py4e.com)
 
 ### Real APIs
 
