@@ -24,6 +24,7 @@
 - [IcoMoon](https://icomoon.io)
 - [Pictonic](https://pictonic.co)
 - [icons8](https://icons8.com)
+- [icons8 animated icons](https://icons8.com/animated-icons)
 - [Flaticon](https://www.flaticon.com)
 - [Font Awesome](https://fontawesome.com)
 - [iconscout](https://iconscout.com)
