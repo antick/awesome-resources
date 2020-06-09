@@ -18,6 +18,7 @@
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
+- [Mixkit](https://mixkit.co)
 
 ### Icons
 
