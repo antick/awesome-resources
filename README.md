@@ -97,3 +97,7 @@
 ### Logo
 
 - [Hatchful Logos by Shopify](https://hatchful.shopify.com)
+
+### Text
+
+- [Text to ASCII art generator](http://patorjk.com/software/taag/#p=display&f=Big&t=Pankaj%20Sanam)
