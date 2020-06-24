@@ -15,10 +15,16 @@
 - [Free Pik](https://www.freepik.com)
 - [Pixabay](https://pixabay.com)
 - [Pexels](https://www.pexels.com)
+- [Illustration Background](https://freellustrations.com)
+
+### Image Editors
+
+- [Image Background Remover](https://www.remove.bg)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
 - [Mixkit](https://mixkit.co)
+- [Background Remover](https://www.unscreen.com)
 
 ### Icons
 
@@ -61,6 +67,10 @@
 - [Scribbbles](https://www.scribbbles.design)
 - [Smash Illustrations](https://usesmash.com)
 - [Open Doodles](https://opendoodles.com)
+- [Illustrations for 404 Page](https://error404.fun)
+- [Control](https://control.rocks)
+- [Delesign Illustrations](https://delesign.com/free-designs/graphics)
+- [Black Illustrations](https://www.blackillustrations.com)
 
 ### SVG
 
@@ -89,6 +99,7 @@
 
 - [Operator Mono](https://www.cufonfonts.com/font/operator-mono)
 - [Befonts](https://befonts.com)
+- [Font Spark](https://fontspark.app)
 
 ### Avatars
 
@@ -97,7 +108,17 @@
 ### Logo
 
 - [Hatchful Logos by Shopify](https://hatchful.shopify.com)
+- [Ucraft Logo Maker](https://www.ucraft.com/free-logo-maker)
 
 ### Text
 
 - [Text to ASCII art generator](http://patorjk.com/software/taag/#p=display&f=Big&t=Pankaj%20Sanam)
+
+### Screenshot Tools
+
+- [Carbon](https://carbon.now.sh)
+
+### Color Generators
+
+- [Colors](https://colors.lol)
+- [Colormind](http://colormind.io)
