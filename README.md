@@ -118,6 +118,7 @@
 ### Screenshot Tools
 
 - [Carbon](https://carbon.now.sh)
+- [Screenzy)(https://screenzy.io)
 
 ### Color Generators
 
