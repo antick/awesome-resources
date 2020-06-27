@@ -8,6 +8,7 @@
 - [Joe Schmoe Avatar Collection](https://joeschmoe.io)
 - [Robohash](https://robohash.org)
 - [Lorem Picsum](https://picsum.photos)
+- [Cool Backgrounds](https://coolbackgrounds.io)
 - [AI Generated Faces](https://generated.photos)
 - [Pizza Placeholder Images](https://img.pizza)
 - [Dog Pictures](https://dog.ceo/dog-api)
@@ -16,10 +17,32 @@
 - [Pixabay](https://pixabay.com)
 - [Pexels](https://www.pexels.com)
 - [Illustration Background](https://freellustrations.com)
+- [Splitshire](https://www.splitshire.com)
+- [Libreshot](https://libreshot.com)
+- [Pickupimage](https://pickupimage.com)
+- [Rawpixel](https://www.rawpixel.com/free-images)
+- [Gratisography](https://gratisography.com)
+- [Rgbstock](https://www.rgbstock.com)
+- [Isorepublic](https://isorepublic.com)
+- [Unsplash](https://unsplash.com)
+- [Picjumbo](https://picjumbo.com)
+- [Freerangestock](https://freerangestock.com)
+- [Stockvault](https://www.stockvault.net)
+- [Kaboompics](https://kaboompics.com)
+- [istockphoto](https://www.istockphoto.com/in/stock-photos)
+- [negativespace](https://negativespace.co)
+- [lifeofpix](https://www.lifeofpix.com)
+- [Depositphotos](https://depositphotos.com)
+= [freestocks](https://freestocks.org)
+- [Shopify Burst](https://burst.shopify.com)
+- [picography](https://picography.co)
 
-### Image Editors
+### Image Tools
 
 - [Image Background Remover](https://www.remove.bg)
+- [Tinypng](https://tinypng.com)
+- [Compressor](https://compressor.io)
+- [Promo image resizer](https://promo.com/tools/image-resizer/)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
@@ -39,7 +62,7 @@
 - [Flaticon](https://www.flaticon.com)
 - [Font Awesome](https://fontawesome.com)
 - [iconscout](https://iconscout.com)
-- [ICONFINDER](https://www.iconfinder.com)
+- [Iconfinder](https://www.iconfinder.com)
 - [PixelLove](https://www.pixellove.com/free-icons/line/simple)
 - [Streamline Icons](https://www.streamlineicons.com/free)
 - [Smashicons](https://smashicons.com/free-icons)
@@ -53,6 +76,8 @@
 - [Tilda Icons](https://tilda.cc/free-icons)
 - [Icon Store](https://iconstore.co)
 - [Favicon](https://favicon.io)
+- [remixicon](https://remixicon.com)
+- [Iconmonstr](https://iconmonstr.com)
 
 ### Vector Illustrations
 
@@ -71,6 +96,10 @@
 - [Control](https://control.rocks)
 - [Delesign Illustrations](https://delesign.com/free-designs/graphics)
 - [Black Illustrations](https://www.blackillustrations.com)
+- [Silhouette-ac](https://silhouette-ac.com/en)
+- [Stocksnap](https://stocksnap.io)
+- [blobmaker](https://www.blobmaker.app)
+- [manypixels](https://www.manypixels.co/gallery)
 
 ### SVG
 
