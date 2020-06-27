@@ -124,3 +124,8 @@
 - [Colors](https://colors.lol)
 - [Colormind](http://colormind.io)
 - [Flat UI Colors 2](https://flatuicolors.com)
+
+### Regular Expressions
+
+- [ihateregex](https://ihateregex.io)
+
