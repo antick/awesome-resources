@@ -75,6 +75,7 @@
 ### SVG
 
 - [SVGOMG - Clean SVG File](https://jakearchibald.github.io/svgomg)
+- [Waves Generator](https://getwaves.io)
 
 ### Name Ideas
 
