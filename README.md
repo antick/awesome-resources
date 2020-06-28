@@ -47,7 +47,7 @@
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
 - [Mixkit](https://mixkit.co)
-- [Background Remover](https://www.unscreen.com)
+- [Unscreen - Background Remover](https://www.unscreen.com)
 
 ### Icons
 
@@ -78,6 +78,7 @@
 - [Favicon](https://favicon.io)
 - [remixicon](https://remixicon.com)
 - [Iconmonstr](https://iconmonstr.com)
+- [Nucleoapp icon transition](https://nucleoapp.com/tool/icon-transition)
 
 ### Vector Illustrations
 
@@ -130,6 +131,7 @@
 - [Operator Mono](https://www.cufonfonts.com/font/operator-mono)
 - [Befonts](https://befonts.com)
 - [Font Spark](https://fontspark.app)
+- [fontjoy](https://fontjoy.com)
 
 ### Avatars
 
@@ -154,6 +156,17 @@
 - [Colors](https://colors.lol)
 - [Colormind](http://colormind.io)
 - [Flat UI Colors 2](https://flatuicolors.com)
+- [Colormixer](https://colormixer.web.app)
+- [Mycolor space gradient](https://mycolor.space/gradient)
+- [Colors Eva Design](https://colors.eva.design)
+- [colordesigner](https://colordesigner.io)
+- [palettte](https://palettte.app)
+- [Colorhexa](https://www.colorhexa.com)
+- [uigradients](https://uigradients.com)
+- [coolors palettes](https://coolors.co/palettes/trending)
+- [Colorsinspo](https://colorsinspo.com)
+- [material ui colors](https://materialuicolors.co)
+- [colorsandfonts color palettes](https://www.colorsandfonts.com/color-palettes)
 
 ### Regular Expressions
 
