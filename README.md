@@ -36,6 +36,7 @@
 = [freestocks](https://freestocks.org)
 - [Shopify Burst](https://burst.shopify.com)
 - [picography](https://picography.co)
+- [giphy](https://giphy.com)
 
 ### Image Tools
 
@@ -136,6 +137,7 @@
 ### Avatars
 
 - [Avataar Generator](https://getavataaars.com)
+- [friendlyfaces](https://friendlyfaces.co)
 
 ### Logo
 
