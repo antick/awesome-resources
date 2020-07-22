@@ -176,6 +176,7 @@
 - [material ui colors](https://materialuicolors.co)
 - [colorsandfonts color palettes](https://www.colorsandfonts.com/color-palettes)
 - [CSS Gradient](https://cssgradient.io/gradient-backgrounds)
+- [Color box](https://www.colorbox.io)
 
 ### Regular Expressions
 
