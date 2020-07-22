@@ -42,6 +42,7 @@
 ### Patterns
 - [Hero patterns](http://www.heropatterns.com)
 - [Cool backgrounds](https://coolbackgrounds.io)
+- [Trianglify](https://trianglify.io)
 
 ### Image Tools
 
