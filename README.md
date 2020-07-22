@@ -51,6 +51,7 @@
 - [Optimizilla Image Compressor](https://imagecompressor.com)
 - [Promo image resizer](https://promo.com/tools/image-resizer)
 - [Favicon Generator](https://realfavicongenerator.net)
+- [Image Colorizer](https://imagecolorizer.com)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
