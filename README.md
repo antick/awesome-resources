@@ -110,6 +110,7 @@
 - [Silhouette-ac](https://silhouette-ac.com/en)
 - [Stocksnap](https://stocksnap.io)
 - [blobmaker](https://www.blobmaker.app)
+- [Blobs](https://blobs.app)
 - [manypixels](https://www.manypixels.co/gallery)
 
 ### SVG
