@@ -37,6 +37,7 @@
 - [Shopify Burst](https://burst.shopify.com)
 - [picography](https://picography.co)
 - [giphy](https://giphy.com)
+= [coverr](https://coverr.co)
 
 ### Patterns
 - [Hero patterns](http://www.heropatterns.com)
