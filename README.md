@@ -43,7 +43,8 @@
 - [Image Background Remover](https://www.remove.bg)
 - [Tinypng](https://tinypng.com)
 - [Compressor](https://compressor.io)
-- [Promo image resizer](https://promo.com/tools/image-resizer/)
+- [Promo image resizer](https://promo.com/tools/image-resizer)
+- [Favicon Generator](https://realfavicongenerator.net)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
