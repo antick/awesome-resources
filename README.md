@@ -174,6 +174,7 @@
 - [Colorsinspo](https://colorsinspo.com)
 - [material ui colors](https://materialuicolors.co)
 - [colorsandfonts color palettes](https://www.colorsandfonts.com/color-palettes)
+- [CSS Gradient](https://cssgradient.io/gradient-backgrounds)
 
 ### Regular Expressions
 
