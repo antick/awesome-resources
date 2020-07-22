@@ -46,6 +46,7 @@
 - [Image Background Remover](https://www.remove.bg)
 - [Tinypng](https://tinypng.com)
 - [Compressor](https://compressor.io)
+- [Optimizilla Image Compressor](https://imagecompressor.com)
 - [Promo image resizer](https://promo.com/tools/image-resizer)
 - [Favicon Generator](https://realfavicongenerator.net)
 
