@@ -38,6 +38,9 @@
 - [picography](https://picography.co)
 - [giphy](https://giphy.com)
 
+### Patterns
+- [Hero patterns](http://www.heropatterns.com)
+
 ### Image Tools
 
 - [Image Background Remover](https://www.remove.bg)
@@ -152,7 +155,7 @@
 ### Screenshot Tools
 
 - [Carbon](https://carbon.now.sh)
-- [Screenzy)(https://screenzy.io)
+- [Screenzy](https://screenzy.io)
 
 ### Color Generators
 
