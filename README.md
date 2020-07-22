@@ -117,6 +117,7 @@
 
 - [SVGOMG - Clean SVG File](https://jakearchibald.github.io/svgomg)
 - [Waves Generator](https://getwaves.io)
+- [Shape divider](https://www.shapedivider.app)
 
 ### Name Ideas
 
