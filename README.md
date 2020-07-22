@@ -128,6 +128,7 @@
 - [Chuck Norris Jokes](https://api.chucknorris.io)
 - [Star Wars API](https://swapi.dev)
 - [Star Wars API - Backup](http://swapi.py4e.com)
+- [Public APIs](https://public-apis.xyz)
 
 ### Real APIs
 
