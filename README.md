@@ -53,6 +53,10 @@
 - [Promo image resizer](https://promo.com/tools/image-resizer)
 - [Favicon Generator](https://realfavicongenerator.net)
 - [Image Colorizer](https://imagecolorizer.com)
+- [Shrinkme](https://shrinkme.app)
+- [Squoosh](https://squoosh.app)
+- [responsive breakpoints](https://responsivebreakpoints.com/)
+- [sharing buttons](https://sharingbuttons.io)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
