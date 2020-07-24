@@ -57,6 +57,7 @@
 - [Squoosh](https://squoosh.app)
 - [responsive breakpoints](https://responsivebreakpoints.com/)
 - [sharing buttons](https://sharingbuttons.io)
+- [Photomania](https://photomania.net)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
