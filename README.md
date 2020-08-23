@@ -165,11 +165,12 @@
 
 - [Text to ASCII art generator](http://patorjk.com/software/taag/#p=display&f=Big&t=Pankaj%20Sanam)
 
-### Screenshot Tools
+### Code Screenshots
 
 - [Carbon](https://carbon.now.sh)
 - [Screenzy](https://screenzy.io)
 - [codeimg](https://codeimg.io)
+- [snippetshot](https://www.snippetshot.com)
 
 ### Color Generators
 
