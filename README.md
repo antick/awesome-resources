@@ -44,21 +44,25 @@
 - [Cool backgrounds](https://coolbackgrounds.io)
 - [Trianglify](https://trianglify.io)
 - [Bgjar](https://bgjar.com)
+- [paaatterns](https://products.ls.graphics/paaatterns/preview.html)
 
 ### Image Tools
 
-- [Image Background Remover](https://www.remove.bg)
-- [Tinypng](https://tinypng.com)
-- [Compressor](https://compressor.io)
-- [Optimizilla Image Compressor](https://imagecompressor.com)
+- [compressor](https://compressor.io)
+- [imagecompressor](https://imagecompressor.com)
+- [remove.bg](https://www.remove.bg)
 - [Promo image resizer](https://promo.com/tools/image-resizer)
 - [Favicon Generator](https://realfavicongenerator.net)
 - [Image Colorizer](https://imagecolorizer.com)
+- [onlinepngtools](https://onlinepngtools.com)
+- [photomania](https://photomania.net)
 - [Shrinkme](https://shrinkme.app)
 - [Squoosh](https://squoosh.app)
 - [responsive breakpoints](https://responsivebreakpoints.com/)
 - [sharing buttons](https://sharingbuttons.io)
-- [Photomania](https://photomania.net)
+- [shapefactory](https://shapefactory.co)
+- [tinypng](https://tinypng.com)
+- [upscaler](https://icons8.com/upscaler)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
@@ -67,7 +71,9 @@
 
 ### Icons
 
-- [The Noun Project](https://thenounproject.com)
+- [boxicons](https://boxicons.com)
+- [heroicons](https://heroicons.dev)
+- [iconbros](https://www.iconbros.com)
 - [icomonstr](https://iconmonstr.com)
 - [Good Stuff No Nonsense](https://goodstuffnononsense.com)
 - [Orion](https://orioniconlibrary.com)
@@ -75,12 +81,15 @@
 - [Pictonic](https://pictonic.co)
 - [icons8](https://icons8.com)
 - [icons8 animated icons](https://icons8.com/animated-icons)
+- [feathericons](https://feathericons.com)
 - [Flaticon](https://www.flaticon.com)
 - [Font Awesome](https://fontawesome.com)
 - [iconscout](https://iconscout.com)
+- [ionicons](https://ionicons.com)
 - [Iconfinder](https://www.iconfinder.com)
 - [PixelLove](https://www.pixellove.com/free-icons/line/simple)
 - [Streamline Icons](https://www.streamlineicons.com/free)
+- [simpleicons](https://simpleicons.org)
 - [Smashicons](https://smashicons.com/free-icons)
 - [pngtree](https://pngtree.com/so/icon)
 - [iconshock](https://www.iconshock.com/free-icons)
@@ -95,6 +104,7 @@
 - [remixicon](https://remixicon.com)
 - [Iconmonstr](https://iconmonstr.com)
 - [Nucleoapp icon transition](https://nucleoapp.com/tool/icon-transition)
+- [The Noun Project](https://thenounproject.com)
 
 ### Vector Illustrations
 
@@ -118,12 +128,15 @@
 - [blobmaker](https://www.blobmaker.app)
 - [Blobs](https://blobs.app)
 - [manypixels](https://www.manypixels.co/gallery)
+- [illlustrations](https://illlustrations.co)
+- [openpeeps](https://www.openpeeps.com)
 
 ### SVG
 
 - [SVGOMG - Clean SVG File](https://jakearchibald.github.io/svgomg)
 - [Waves Generator](https://getwaves.io)
 - [Shape divider](https://www.shapedivider.app)
+- [svgporn](https://svgporn.com)
 
 ### Name Ideas
 
@@ -156,6 +169,8 @@
 
 - [Avataar Generator](https://getavataaars.com)
 - [friendlyfaces](https://friendlyfaces.co)
+- [avataaars](https://avataaars.com)
+- [personas.draftbit](https://personas.draftbit.com)
 
 ### Logo
 
@@ -166,12 +181,13 @@
 
 - [Text to ASCII art generator](http://patorjk.com/software/taag/#p=display&f=Big&t=Pankaj%20Sanam)
 
-### Code Screenshots
+### Screenshot tools
 
 - [Carbon](https://carbon.now.sh)
 - [Screenzy](https://screenzy.io)
 - [codeimg](https://codeimg.io)
 - [snippetshot](https://www.snippetshot.com)
+- [screely](https://www.screely.com)
 
 ### Color Generators
 
@@ -191,8 +207,18 @@
 - [colorsandfonts color palettes](https://www.colorsandfonts.com/color-palettes)
 - [CSS Gradient](https://cssgradient.io/gradient-backgrounds)
 - [Color box](https://www.colorbox.io)
+- [schemecolor](https://www.schemecolor.com)
+- [gradienta](https://gradienta.io)
 
 ### Regular Expressions
 
 - [ihateregex](https://ihateregex.io)
 
+### Mockups
+
+- [threed](https://threed.io)
+
+### CSS
+
+- [neumorphism](https://neumorphism.io)
+- [brumm.af.shadows](https://brumm.af/shadows)
