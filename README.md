@@ -74,6 +74,7 @@
 - [boxicons](https://boxicons.com)
 - [heroicons](https://heroicons.dev)
 - [iconbros](https://www.iconbros.com)
+- [iconhub](https://iconhub.io)
 - [icomonstr](https://iconmonstr.com)
 - [Good Stuff No Nonsense](https://goodstuffnononsense.com)
 - [Orion](https://orioniconlibrary.com)
@@ -222,3 +223,4 @@
 
 - [neumorphism](https://neumorphism.io)
 - [brumm.af.shadows](https://brumm.af/shadows)
+- [getcssscan.css-box-shadow](https://getcssscan.com/css-box-shadow-examples)
