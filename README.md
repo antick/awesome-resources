@@ -212,6 +212,8 @@
 - [Color box](https://www.colorbox.io)
 - [schemecolor](https://www.schemecolor.com)
 - [gradienta](https://gradienta.io)
+- [colorhunt](https://colorhunt.co)
+
 
 ### Regular Expressions
 
