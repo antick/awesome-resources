@@ -191,6 +191,7 @@
 - [codeimg](https://codeimg.io)
 - [snippetshot](https://www.snippetshot.com)
 - [screely](https://www.screely.com)
+- [screenshot rocks](https://screenshot.rocks)
 
 ### Color Generators
 
