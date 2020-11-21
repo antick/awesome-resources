@@ -45,6 +45,8 @@
 - [Hero patterns](http://www.heropatterns.com)
 - [paaatterns](https://products.ls.graphics/paaatterns/preview.html)
 - [Trianglify](https://trianglify.io)
+- [verou css3 patterns](https://projects.verou.me/css3patterns)
+- [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator)
 
 ### Image Tools
 
@@ -215,7 +217,6 @@
 - [schemecolor](https://www.schemecolor.com)
 - [gradienta](https://gradienta.io)
 - [colorhunt](https://colorhunt.co)
-
 
 ### Regular Expressions
 
