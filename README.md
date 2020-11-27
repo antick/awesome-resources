@@ -135,6 +135,7 @@
 - [Smash Illustrations](https://usesmash.com)
 - [Stocksnap](https://stocksnap.io)
 - [unDraw](https://undraw.co)
+- [Flexiple Scale Illustrations](https://2.flexiple.com/scale/all-illustrations)
 
 ### SVG
 
