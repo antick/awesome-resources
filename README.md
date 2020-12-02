@@ -136,6 +136,7 @@
 - [Stocksnap](https://stocksnap.io)
 - [unDraw](https://undraw.co)
 - [Flexiple Scale Illustrations](https://2.flexiple.com/scale/all-illustrations)
+- [Pixel True Illustrations](https://www.pixeltrue.com/free-illustrations)
 
 ### SVG
 
