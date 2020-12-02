@@ -171,6 +171,7 @@
 - [Befonts](https://befonts.com)
 - [Font Spark](https://fontspark.app)
 - [fontjoy](https://fontjoy.com)
+- [Dev Fonts](https://devfonts.gafi.dev)
 
 ### Avatars
 
