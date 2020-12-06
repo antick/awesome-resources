@@ -47,6 +47,7 @@
 - [Trianglify](https://trianglify.io)
 - [verou css3 patterns](https://projects.verou.me/css3patterns)
 - [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator)
+- [pattern collect](https://patterncollect.com)
 
 ### Image Tools
 
