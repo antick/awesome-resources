@@ -128,6 +128,7 @@
 - [Iconmonstr](https://iconmonstr.com)
 - [Nucleoapp icon transition](https://nucleoapp.com/tool/icon-transition)
 - [The Noun Project](https://thenounproject.com)
+- [Iconic](https://iconic.app)
 
 ### Vector Illustrations
 
