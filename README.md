@@ -220,6 +220,7 @@
 - [avataaars](https://avataaars.com)
 - [personas.draftbit](https://personas.draftbit.com)
 - [Profile Pic Maker](https://pfpmaker.com)
+- [boringavatars](https://boringavatars.com)
 
 ### Logo
 
