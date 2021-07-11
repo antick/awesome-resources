@@ -85,6 +85,7 @@
 - [Squoosh](https://squoosh.app)
 - [tinypng](https://tinypng.com)
 - [upscaler](https://icons8.com/upscaler)
+- [tinter](https://tinter.uxie.io)
 
 ### Videos
 - [Free Stock Video Footage](https://www.videvo.net)
@@ -221,6 +222,7 @@
 - [personas.draftbit](https://personas.draftbit.com)
 - [Profile Pic Maker](https://pfpmaker.com)
 - [boringavatars](https://boringavatars.com)
+- [nice avatar](https://nice-avatar.chilllab.io)
 
 ### Logo
 
