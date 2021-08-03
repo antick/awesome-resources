@@ -178,6 +178,8 @@
 - [stubborn](https://stubborn.fun)
 - [glazestock](https://www.glazestock.com)
 - [vectorportal](https://www.vectorportal.com)
+- [3d illustrations](https://3d.khagwal.co)
+- [Pixeltrue scenic-illustrations](https://www.pixeltrue.com/scenic-illustrations)
 
 ### SVG
 
@@ -263,6 +265,7 @@
 - [schemecolor](https://www.schemecolor.com)
 - [gradienta](https://gradienta.io)
 - [colorhunt](https://colorhunt.co)
+- [Mesh Gradients](https://www.meshgradients.design)
 
 ### Regular Expressions
 
