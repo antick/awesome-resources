@@ -2,6 +2,10 @@
 
 🧷 An awesome list of useful resources
 
+### Analyzers
+
+- [bundlejs](https://bundlejs.com)
+- [bundlescanner](https://bundlescanner.com)
 
 ### Images
 
